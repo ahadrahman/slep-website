@@ -2,7 +2,7 @@
 
 This repository contains the source code for the website found [here](https://slep.netlify.app) for the musical artist Slep.
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
