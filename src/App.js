@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src="../slep.png" className="slep-logo" alt="logo" />
+        <img src="../slep_logo.png" className="slep-logo" alt="logo" />
         <img src="../IMG_1827.jpg" className="App-logo" alt="logo" />
         <p>
           OUT NOW!
